@@ -23,7 +23,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="51" alt="amazonwebservices logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="51" alt="mysql logo"  />
+  <img src="https://www.dbacorp.com.br/wp-content/uploads/2017/07/microsoft-sql-server-logo.png" height="51" alt="mysql logo"  />
 </div>
 
 ###
